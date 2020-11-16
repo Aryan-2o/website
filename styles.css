@@ -1,0 +1,18 @@
+
+h1 {
+    color: greenyellow
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: coral;
+    display:flex;
+    justify-content: space-evenly ;
+}
+
+.collection{
+    display: space-evenly;
+    flex-wrap: wrap;
+}
